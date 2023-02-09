@@ -11,7 +11,7 @@
 - 🆗 Correción de logo.
 - 🆗 Las imágenes de los productos en carrito no aparecen.
 - 🆗 Agregar un texto que indique que, clickeando la imágen del producto añadido al carrito, se puede eliminar de éste.
-- 🆗 Video en la home. Debe tener un botón para mutear y desmutear, además de los nuevos elementos y detalles hablados en el boceto entregado. (OJO: carga versión mobile)
+- 🆗 Video en la home. Debe tener un botón para mutear y desmutear, además de los nuevos elementos y detalles hablados en el boceto entregado.
 - 🆗 Crear la página *ANTICIPO* para mostrar los productos de invierno (nota: al llegar a la temporada invernal se deben mover todos los productos a *COLLECTION*, según lo hablado).
 - 🆗 Video de invierno en la página *ANTICIPO*.
 - 🆗 Imágenes nuevas para la página principal.
