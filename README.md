@@ -1,5 +1,10 @@
 # Item Buenos Aires
 
+**Referencia**:
+- 🆗 Tarea completada.
+- 🟨 Tarea en proceso.
+- 🟥 Tarea detenida por algún problema, que puede retrasar el desarrollo.
+
 ## Tracking de metas
 
 ### A ENTREGAR MIÉRCOLES 08/02: 
@@ -17,17 +22,19 @@
 
 ### A ENTREGAR HASTA EL VIERNES 10/02
 - 🆗 Transformar el link *COLLECTION*, ubicado en la cabecera de la página, en un nuevo menú dónde se muestran las categorías (no sub-categorías) y acompañado por una imágen. Similar al link *Auxiliares* en la página neochem.com.ar.
-- 🟨 Página "Política de devolución"
-- 🟨 Página "Política de privacidad"
+- 🆗 Página "Política de devolución"
+- 🆗 Página "Política de privacidad"
 - 🆗 Posibilidad de navegar por sub-categorías de hasta 3 niveles:
     - Ejemplo dos niveles: Poder entrar a la página/categoría Anticipos; y luego filtrar por Abrigos.
     - Ejemplo tres niveles: Luego de entrar a Anticipos > Abrigos, poder filtrar por Camperas, Chalecos, etc.
+- 🟥 No mezclar la categoría ANTICIPOS con la tienda principal.
 
 ### A ENTREGAR HASTA EL LUNES 13/02
 - 🆗 Contador de productos agregados al carrito.
-- Subir todos los productos de invierno a la web.
-- Llevar todos los productos de Invierno a la nueva página *ANTICIPO*.
-- Código QR que lleva a... (preguntarle a Romi)
+- 🆗 Subir todos los productos de invierno a la web.
+- 🆗 Llevar todos los productos de Invierno a la nueva página *ANTICIPO*.
+- 🟨 Corregir productos de la temporada de Verano (incluir color en el título y separar por colores).
+- 🟨 Código QR que lleva a... (preguntarle a Romi)
 
 ### MIS IDEAS
 - Dar soporte a colores personalizados, como por ej. multicolor, rayas de color rojo/violeta/etc, dragón, grulla, etc.
