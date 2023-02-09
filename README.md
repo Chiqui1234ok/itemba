@@ -24,10 +24,11 @@
 - 🆗 Transformar el link *COLLECTION*, ubicado en la cabecera de la página, en un nuevo menú dónde se muestran las categorías (no sub-categorías) y acompañado por una imágen. Similar al link *Auxiliares* en la página neochem.com.ar.
 - 🆗 Página "Política de devolución"
 - 🆗 Página "Política de privacidad"
-- 🆗 Posibilidad de navegar por sub-categorías de hasta 3 niveles:
+- 🟨 Posibilidad de navegar por sub-categorías de hasta 3 niveles:
     - Ejemplo dos niveles: Poder entrar a la página/categoría Anticipos; y luego filtrar por Abrigos.
     - Ejemplo tres niveles: Luego de entrar a Anticipos > Abrigos, poder filtrar por Camperas, Chalecos, etc.
-- 🟥 No mezclar la categoría ANTICIPOS con la tienda principal.
+    - 🟥 Al ver la categoría de último nivel (independientemente que sea 2do o 3er nivel), ej: Abrigos > Camperas, no se muestran las categorías **hermanas** en la pestaña, ni el link *Tienda*.
+- 🆗 No mezclar la categoría ANTICIPOS con la tienda principal.
 
 ### A ENTREGAR HASTA EL LUNES 13/02
 - 🆗 Contador de productos agregados al carrito.
